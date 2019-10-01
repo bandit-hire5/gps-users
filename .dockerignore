@@ -1,0 +1,7 @@
+.idea
+.git
+.env
+node_modules
+.env.example
+build.sh
+Dockerfile
